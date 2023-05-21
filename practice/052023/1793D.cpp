@@ -11,7 +11,16 @@ const int MOD = int(1e9) + 7;
 const int MAXN = 1123456;
 
 void solution(){
+    int n; cin >> n;
+    vector<int> p(n);
+    forn(n){cin>>a[i];}
+    vector<int> q(n);
+    forn(n){cin>>q[i];}
+
+    //This is the same as # of subarrays with the same MIN -- trivial O(N^2logN) using Sparse Table --> how to O(N) or O(NlogN)
     
+
+
 }
 
 int main(){
