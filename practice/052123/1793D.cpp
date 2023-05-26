@@ -19,8 +19,7 @@ void solution(){
 
     //This is the same as # of subarrays with the same MIN -- trivial O(N^2logN) using Sparse Table --> how to O(N) or O(NlogN)
     
-    
-
+    //Didn't get it ://
 }
 
 int main(){
